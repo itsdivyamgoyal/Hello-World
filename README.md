@@ -5,6 +5,6 @@ this is a main file
 
 this is a branched file repo
 
-# hey
+commit 2
 
-This changes is done in main branch
+This is from branch code
